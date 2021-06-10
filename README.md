@@ -14,6 +14,8 @@ The stock prices are tracked as follows:
 
 The stock prices are compared with the respective open or close price after 1 day, 3 days and 5 days.
 
+The demo is live here: http://stocksentimentai.com
+
 The results were astounding...
 
 Negative sentiment articles resulted in the stock price dropping, on the average, 80% of the time, after 1 day.  The average drop in stock price after one day was 1.68%.  This trend was not as sharp after the third day and the fifth day, however.  On the third day, the stock had dropped 64% of the time, and by the fifth day, this was down to 52% of the time, relative to the initial price.  We can conclude that "bad news" tends to drive the price down in the short-term, and it then begins to correct itself longer-term.
