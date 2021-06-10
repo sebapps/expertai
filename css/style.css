@@ -1,0 +1,113 @@
+body, html {
+    background-color: black;
+    color: white;
+    font-family: Tahoma, verdana, sans-serif;
+    font-size: 16px;
+}
+
+a, a:hover {
+    color: white;
+}
+
+input {
+    font-size: 16px;
+    font-family: Tahoma, verdana, sans-serif;
+}
+
+#title {
+    margin-top:10px;
+    font-size: 24px;
+}
+
+#instructions, #selected_ticker {
+    padding-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    font-size: 12px;
+    border-bottom: 1px solid white;
+}
+
+.highlight {
+    background-color: #FFFFE0;
+}
+
+.highlight_positive {
+    color: green;
+}
+
+.highlight_negative {
+    color: red;
+}
+
+#holder {
+    width: 100%;
+    max-width: 1020px;
+    min-width: 1020px;    
+}
+
+#chart {
+    border: 3px solid #bcbcbc;
+    width: 67%;
+    max-width: 600px;
+    min-width: 600px;
+    max-height: 400px;
+    background-color: #dedede;
+    display: none;
+    float: left;
+}
+
+#sentiments_table {
+    border: 3px solid #bcbcbc;
+    width: 100%;
+    max-width: 800px;
+    min-width: 400px;
+    padding-top: 12px;
+    background-color: #000;
+}
+
+#sentiments {
+    padding-left: 4px;
+    width: 400px;
+    display: none;
+    float: right;
+    height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right:15px;
+}
+
+#sentiment-details-table {
+    border: 3px solid #bcbcbc;
+    width: 100%;
+    max-width: 1020px;
+    min-width: 400px;
+    margin-top: 12px;
+    background-color: #000;
+}
+
+.article-td {
+    width: 500px;
+    max-width: 500px;
+    min-width: 500px;
+    height: 40px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 15px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.green {
+    color: #00FF00;
+}
+
+.red {
+    color: red;
+}
