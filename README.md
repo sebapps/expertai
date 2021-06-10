@@ -14,7 +14,7 @@ The stock prices are tracked as follows:
 
 The stock prices are compared with the respective open or close price after 1 day, 3 days and 5 days.
 
-The demo is live here: http://stocksentimentai.com
+The demo is live here: <a href="http://stocksentimentai.com" target="_blank">http://stocksentimentai.com</a>
 
 The results were astounding...
 
