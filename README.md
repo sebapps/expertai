@@ -20,7 +20,7 @@ The results were astounding...
 
 Negative sentiment articles resulted in the stock price dropping, on the average, 80% of the time, after 1 day.  The average drop in stock price after one day was 1.68%.  This trend was not as sharp after the third day and the fifth day, however.  On the third day, the stock had dropped 64% of the time, and by the fifth day, this was down to 52% of the time, relative to the initial price.  We can conclude that "bad news" tends to drive the price down in the short-term, and it then begins to correct itself longer-term.
 
-Positive sentiment articles were more impressive - there resulted in the stock price rising, on the average, 85% of the time after 1 day, 79% of the time after 3 days and 74% of the time after five days.  Interestingly enough, the stock price rose by 1.17% after 1 day, 1.35% after the third day and 1.29% after the fifth day, relative to the initial price.  We can conclude that "good news" tends to drive the price up and it takes longer for the price to "spike" (in this case, the third day) before coming back down again.
+Positive sentiment articles were more impressive - these resulted in the stock price rising, on the average, 85% of the time after 1 day, 79% of the time after 3 days and 74% of the time after five days.  Interestingly enough, the stock price rose by 1.17% after 1 day, 1.35% after the third day and 1.29% after the fifth day, relative to the initial price.  We can conclude that "good news" tends to drive the price up and it takes longer for the price to "spike" (in this case, the third day) before coming back down again.
 
 Next steps in this project would include:
 1) Incorporating multiple sources of stock news (Wall Street Journal, Benzinga, CNN, MarketWatch, etc).
